@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "4269d566d00d9391",
+    "type": "split",
+    "children": [
+      {
+        "id": "22f6eacd279bc773",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b5d76e4c2bb1d20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3-TUM_Prep/04-Vocab_Vault/der pass.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "der pass"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8c8df7677ac45ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "4e36d83e524ea77f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "188fe0106f42362e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db44a45c6c72eb84",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2aa2907e60771b3b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1247e8af6f1b7520",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7a48ee503ddea1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c50945f0a0f213e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "412667da7f1f46a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "78cd33992cabaa4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ac38e2fbfb5a61ba",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "65eb2229c12f3ac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "1b5d76e4c2bb1d20",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "3-TUM_Prep/04-Vocab_Vault/der pass.md",
+    "3-TUM_Prep/01-Milestones/TUM Master's Roadmap & Milestones.md",
+    "3-TUM_Prep/02-Nicos_Weg_A1/Folge - 1 -hallo.md",
+    "3-TUM_Prep/01-Milestones/Untitled.md",
+    "3-TUM_Prep/01-Milestones/TUM Master's Roadmap.md",
+    "3-TUM_Prep/04-Vocab_Vault",
+    "3-TUM_Prep/03-Grammar_Rules",
+    "3-TUM_Prep/02-Nicos_Weg_A1",
+    "3-TUM_Prep/01-Milestones",
+    "3-TUM_Prep",
+    "2-Academics",
+    "1-Computer_Science",
+    "0-Inbox"
+  ]
+}
