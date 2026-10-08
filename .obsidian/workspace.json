@@ -11,10 +11,13 @@
             "id": "b8a2bd969863bb21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "bases",
+              "state": {
+                "file": "Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -165,13 +168,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "0c9114bbeba40d95",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,6 +200,9 @@
   },
   "active": "b8a2bd969863bb21",
   "lastOpenFiles": [
+    "2026-10-08.md",
+    "Untitled.base",
+    "Untitled.canvas",
     "3-TUM_Prep/04-Vocab_Vault/Wie bitte.md",
     "3-TUM_Prep/04-Vocab_Vault/der pass.md",
     "3-TUM_Prep/01-Milestones/TUM Master's Roadmap & Milestones.md",
