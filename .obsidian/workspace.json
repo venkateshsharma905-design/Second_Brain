@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d3f9eb5c8881349e",
+        "id": "d916b67b96b1c4b6",
         "type": "tabs",
         "children": [
           {
-            "id": "b8a2bd969863bb21",
+            "id": "5c0eee3bce397ce3",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
-              },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -198,10 +195,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "b8a2bd969863bb21",
+  "active": "5c0eee3bce397ce3",
   "lastOpenFiles": [
-    "2026-10-08.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "Untitled.base",
+    "2026-10-08.md",
     "Untitled.canvas",
     "3-TUM_Prep/04-Vocab_Vault/Wie bitte.md",
     "3-TUM_Prep/04-Vocab_Vault/der pass.md",
